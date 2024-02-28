@@ -1,6 +1,6 @@
 {
 	"name": "create-postdoc",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Bootstrap new PostDoc projects with a single command.",
 	"type": "module",
 	"bin": "bin.js",
